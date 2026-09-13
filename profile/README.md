@@ -1,8 +1,8 @@
 # Naatu Paakam
 
-**Apps for everyday Indian family life.**
+**Apps for everyday family life.**
 
-Naatu Paakam ("native kitchen" in Tamil) builds simple, focused tools for Indian families — managing the home, the school, and the memories in between.
+Naatu Paakam ("native kitchen" in Southern India culture) builds simple, focused tools for families — managing the day to day work of families, thier home, the learnings, and the memories in between.
 
 ---
 

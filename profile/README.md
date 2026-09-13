@@ -12,7 +12,7 @@ Naatu Paakam ("native kitchen" in Southern India culture) builds simple, focused
 |---|---|---|
 | [**Day Care Portal**](https://github.com/naatu-paakam/jsdaycare) | Daycare & school management portal — attendance, rooms, staff, parent invites | 🟢 Live |
 | [**One Family**](https://github.com/naatu-paakam/one-family) | Family memory space — stories, events, family tree, AI summaries | 🟢 Live |
-| [**Pkeep**](https://github.com/naatu-paakam/pkeep) | Worker & visitor registry for Indian housing societies | 🟢 MVP |
+| [**P Keep**](https://github.com/naatu-paakam/pkeep) | Worker & visitor registry for Indian housing societies | 🟢 MVP |
 | [**AI Companion**](https://github.com/naatu-paakam/ai-companion) | AI assistant with persistent user contexts | 🟡 MVP |
 
 ---

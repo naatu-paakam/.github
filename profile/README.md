@@ -10,7 +10,7 @@ Naatu Paakam ("native kitchen" in Southern Indian culture) builds simple, focuse
 
 | App | What it does | Status |
 |---|---|---|
-| [**JsDayCare**](https://github.com/naatu-paakam/jsdaycare) | Daycare & school management SaaS — attendance, rooms, staff, parent invites | 🟢 [Live](https://usdaycare.netlify.app) |
+| [**Daycare Portal**](https://github.com/naatu-paakam/daycare-portal) | Daycare & school management SaaS — attendance, rooms, staff, parent invites | 🟢 [Live](https://usdaycare.netlify.app) |
 | [**Family Vibes**](https://github.com/naatu-paakam/one-family) | Family memory space — stories, events, family tree, AI summaries | 🟢 [Live](https://one-family.netlify.app) |
 | [**Bay Area Temples**](https://github.com/naatu-paakam/bayarea-temples) | Hindu temple directory for the SF Bay Area — AI-powered Ask, festival guide | 🟢 [Live](https://bayarea-temples.netlify.app) |
 | [**Keep Plants Live**](https://github.com/naatu-paakam/keep-plants-live) | Smart plant care companion — watering schedules and AI care advice | 🟢 [Live](https://plantslife.netlify.app) |
